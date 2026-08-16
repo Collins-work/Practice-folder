@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container{
+    place-self: center;
+    border-radius: 12px;
+    box-shadow: 4px 4px 8px gray, -4px -4px 8px gray;
+    width: fit-content;
+    padding: 12px 10px;
+    padding-bottom: 50px;
+    background-color: beige;
+}
+#Input{
+    text-align: center;
+}
+#Submitbtn{
+    font-size: 20px;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 12px;
+    box-shadow: 2px 2px 2px gray, -2px -2px 2px gray;
+    background-color: azure;
+
+}
